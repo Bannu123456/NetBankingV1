@@ -1,0 +1,31 @@
+2022-10-16 21:06:49,618 - LoggerExample -INFO - Creating object to LoginPage objects
+2022-10-16 21:06:52,303 - LoggerExample -INFO - Testcase01 Passed
+2022-10-16 21:06:59,479 - LoggerExample -INFO - user name provided
+2022-10-16 21:06:59,591 - LoggerExample -INFO - password provided
+2022-10-16 21:07:01,151 - LoggerExample -INFO - Login passed
+2022-10-16 21:07:03,871 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:03,894 - LoggerExample -INFO - Testcase Passed
+2022-10-16 21:07:03,970 - LoggerExample -INFO - user name provided
+2022-10-16 21:07:04,062 - LoggerExample -INFO - password provided
+2022-10-16 21:07:06,306 - LoggerExample -WARN - Login failed
+2022-10-16 21:07:06,306 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:06,419 - LoggerExample -INFO - Testcase Passed
+2022-10-16 21:07:06,505 - LoggerExample -INFO - user name provided
+2022-10-16 21:07:06,602 - LoggerExample -INFO - password provided
+2022-10-16 21:07:08,650 - LoggerExample -INFO - Login passed
+2022-10-16 21:07:10,901 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:10,905 - LoggerExample -INFO - Testcase Passed
+2022-10-16 21:07:11,001 - LoggerExample -INFO - user name provided
+2022-10-16 21:07:11,212 - LoggerExample -INFO - password provided
+2022-10-16 21:07:13,357 - LoggerExample -WARN - Login failed
+2022-10-16 21:07:13,357 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:13,535 - LoggerExample -INFO - Testcase Passed
+2022-10-16 21:07:13,625 - LoggerExample -INFO - user name provided
+2022-10-16 21:07:13,704 - LoggerExample -INFO - password provided
+2022-10-16 21:07:16,950 - LoggerExample -WARN - Login failed
+2022-10-16 21:07:16,951 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:17,035 - LoggerExample -INFO - Testcase Passed
+2022-10-16 21:07:23,561 - LoggerExample -INFO - login object created
+2022-10-16 21:07:23,562 - LoggerExample -INFO - clicking register link
+2022-10-16 21:07:26,849 - LoggerExample -INFO - Getting current url
+2022-10-16 21:07:26,854 - LoggerExample -INFO - Testcase05 failed

@@ -1,0 +1,10 @@
+com\NetBanking\TestCases\TC_Login_005.class
+com\NetBanking\Utilities\XLUtils.class
+com\NetBanking\TestCases\BaseClass.class
+com\NetBanking\Utilities\ReadConfig.class
+com\NetBanking\PageObjects\EditCustomer.class
+com\NetBanking\PageObjects\AddCustomer.class
+com\NetBanking\PageObjects\DeleteCustomer.class
+com\NetBanking\PageObjects\LoginGuru.class
+com\NetBanking\TestCases\TC_Login_003.class
+com\NetBanking\TestCases\TC_Login_001.class

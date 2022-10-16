@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-16T15:36:43Z" name="Suite" finished-at="2022-10-16T15:37:26Z" duration-ms="43941">
+    <groups>
+    </groups>
+    <test started-at="2022-10-16T15:36:43Z" name="Test" finished-at="2022-10-16T15:37:26Z" duration-ms="43941">
+      <class name="com.NetBanking.TestCases.TC_Login_005">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_005@282cb7c7]" started-at="2022-10-16T15:37:17Z" name="Setup" finished-at="2022-10-16T15:37:23Z" duration-ms="6386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="ValidRegister()[pri:0, instance:com.NetBanking.TestCases.TC_Login_005@282cb7c7]" started-at="2022-10-16T15:37:23Z" name="ValidRegister" finished-at="2022-10-16T15:37:26Z" duration-ms="3293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidRegister -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.NetBanking.TestCases.TC_Login_005@282cb7c7]" started-at="2022-10-16T15:37:26Z" name="Teardown" finished-at="2022-10-16T15:37:26Z" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.NetBanking.TestCases.TC_Login_005 -->
+      <class name="com.NetBanking.TestCases.TC_Login_001">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_001@21129f1f]" started-at="2022-10-16T15:36:43Z" name="Setup" finished-at="2022-10-16T15:36:49Z" duration-ms="6577" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="Valid()[pri:0, instance:com.NetBanking.TestCases.TC_Login_001@21129f1f]" started-at="2022-10-16T15:36:49Z" name="Valid" finished-at="2022-10-16T15:36:52Z" duration-ms="2688" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Valid -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.NetBanking.TestCases.TC_Login_001@21129f1f]" started-at="2022-10-16T15:36:52Z" name="Teardown" finished-at="2022-10-16T15:36:52Z" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.NetBanking.TestCases.TC_Login_001 -->
+      <class name="com.NetBanking.TestCases.TC_Login_003">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:36:52Z" name="Setup" finished-at="2022-10-16T15:36:58Z" duration-ms="6249" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:36:59Z" name="loginDDT" data-provider="TestData" finished-at="2022-10-16T15:37:03Z" duration-ms="4508" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr447045]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vedUjuj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:37:03Z" name="loginDDT" data-provider="TestData" finished-at="2022-10-16T15:37:06Z" duration-ms="2525" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr447047]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vedUjuk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:37:06Z" name="loginDDT" data-provider="TestData" finished-at="2022-10-16T15:37:10Z" duration-ms="4486" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr447045]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vedUjuj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:37:10Z" name="loginDDT" data-provider="TestData" finished-at="2022-10-16T15:37:13Z" duration-ms="2629" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr447046]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vedUjuk]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method signature="loginDDT(java.lang.String, java.lang.String)[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:37:13Z" name="loginDDT" data-provider="TestData" finished-at="2022-10-16T15:37:17Z" duration-ms="3500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr447046]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vedUjuj]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginDDT -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.NetBanking.TestCases.TC_Login_003@5a9f4771]" started-at="2022-10-16T15:37:17Z" name="Teardown" finished-at="2022-10-16T15:37:17Z" duration-ms="140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.NetBanking.TestCases.TC_Login_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
