@@ -20,7 +20,9 @@ public class TC_Login_005 extends BaseClass
 	String s= driver.getCurrentUrl();
 	if(s.equals("https://demo.guru99.com/"))
 	{
-		log.info("Testcase05 failed");
+		captureScreen(driver,"ValidRegister");
+		log.info("Testcase05 Passed");
+		Assert.fail();
 	}
 	else
 	{

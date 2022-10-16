@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.NetBanking.TestCases.TC_Login_005">
+      <class name="com.NetBanking.TestCases.TC_Login_003">
         <methods>
-          <include name="ValidRegister"/>
           <include name="Setup"/>
+          <include name="loginDDT" invocation-numbers="0 1 2 3 4"/>
           <include name="Teardown"/>
         </methods>
-      </class> <!-- com.NetBanking.TestCases.TC_Login_005 -->
+      </class> <!-- com.NetBanking.TestCases.TC_Login_003 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

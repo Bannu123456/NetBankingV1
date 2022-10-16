@@ -1,31 +1,30 @@
-2022-10-16 21:06:49,618 [main] INFO LoggerExample - Creating object to LoginPage objects
-2022-10-16 21:06:52,303 [main] INFO LoggerExample - Testcase01 Passed
-2022-10-16 21:06:59,479 [main] INFO LoggerExample - user name provided
-2022-10-16 21:06:59,591 [main] INFO LoggerExample - password provided
-2022-10-16 21:07:01,151 [main] INFO LoggerExample - Login passed
-2022-10-16 21:07:03,871 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:03,894 [main] INFO LoggerExample - Testcase Passed
-2022-10-16 21:07:03,970 [main] INFO LoggerExample - user name provided
-2022-10-16 21:07:04,062 [main] INFO LoggerExample - password provided
-2022-10-16 21:07:06,306 [main] WARN LoggerExample - Login failed
-2022-10-16 21:07:06,306 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:06,419 [main] INFO LoggerExample - Testcase Passed
-2022-10-16 21:07:06,505 [main] INFO LoggerExample - user name provided
-2022-10-16 21:07:06,602 [main] INFO LoggerExample - password provided
-2022-10-16 21:07:08,650 [main] INFO LoggerExample - Login passed
-2022-10-16 21:07:10,901 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:10,905 [main] INFO LoggerExample - Testcase Passed
-2022-10-16 21:07:11,001 [main] INFO LoggerExample - user name provided
-2022-10-16 21:07:11,212 [main] INFO LoggerExample - password provided
-2022-10-16 21:07:13,357 [main] WARN LoggerExample - Login failed
-2022-10-16 21:07:13,357 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:13,535 [main] INFO LoggerExample - Testcase Passed
-2022-10-16 21:07:13,625 [main] INFO LoggerExample - user name provided
-2022-10-16 21:07:13,704 [main] INFO LoggerExample - password provided
-2022-10-16 21:07:16,950 [main] WARN LoggerExample - Login failed
-2022-10-16 21:07:16,951 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:17,035 [main] INFO LoggerExample - Testcase Passed
-2022-10-16 21:07:23,561 [main] INFO LoggerExample - login object created
-2022-10-16 21:07:23,562 [main] INFO LoggerExample - clicking register link
-2022-10-16 21:07:26,849 [main] INFO LoggerExample - Getting current url
-2022-10-16 21:07:26,854 [main] INFO LoggerExample - Testcase05 failed
+2022-10-17 04:29:55,792 [main] INFO LoggerExample - Creating object to LoginPage objects
+2022-10-17 04:30:20,206 [main] INFO LoggerExample - user name provided
+2022-10-17 04:30:20,330 [main] INFO LoggerExample - password provided
+2022-10-17 04:30:23,694 [main] INFO LoggerExample - Login passed
+2022-10-17 04:30:26,235 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:26,243 [main] INFO LoggerExample - Testcase Passed
+2022-10-17 04:30:26,446 [main] INFO LoggerExample - user name provided
+2022-10-17 04:30:26,514 [main] INFO LoggerExample - password provided
+2022-10-17 04:30:28,602 [main] WARN LoggerExample - Login failed
+2022-10-17 04:30:28,602 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:28,610 [main] INFO LoggerExample - Testcase Passed
+2022-10-17 04:30:28,759 [main] INFO LoggerExample - user name provided
+2022-10-17 04:30:28,828 [main] INFO LoggerExample - password provided
+2022-10-17 04:30:31,312 [main] INFO LoggerExample - Login passed
+2022-10-17 04:30:33,764 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:33,774 [main] INFO LoggerExample - Testcase Passed
+2022-10-17 04:30:33,976 [main] INFO LoggerExample - user name provided
+2022-10-17 04:30:34,093 [main] INFO LoggerExample - password provided
+2022-10-17 04:30:36,031 [main] WARN LoggerExample - Login failed
+2022-10-17 04:30:36,032 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:36,037 [main] INFO LoggerExample - Testcase Passed
+2022-10-17 04:30:36,148 [main] INFO LoggerExample - user name provided
+2022-10-17 04:30:36,280 [main] INFO LoggerExample - password provided
+2022-10-17 04:30:39,492 [main] WARN LoggerExample - Login failed
+2022-10-17 04:30:39,492 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:39,502 [main] INFO LoggerExample - Testcase Passed
+2022-10-17 04:30:46,004 [main] INFO LoggerExample - login object created
+2022-10-17 04:30:46,005 [main] INFO LoggerExample - clicking register link
+2022-10-17 04:30:48,753 [main] INFO LoggerExample - Getting current url
+2022-10-17 04:30:48,946 [main] INFO LoggerExample - Testcase05 Passed

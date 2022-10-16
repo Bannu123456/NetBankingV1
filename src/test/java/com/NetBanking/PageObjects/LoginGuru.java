@@ -8,8 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 public class LoginGuru 
 {
 	public  static WebDriver driver;
-	@FindBy(name="uid")
-	public WebElement Userid;
+	@FindBy(name="uid")WebElement Userid;
 	@FindBy(name="password")WebElement Password;
 	@FindBy(name="btnLogin")WebElement Login;
 	@FindBy(name="btnReset")WebElement Reset;

@@ -33,12 +33,11 @@ import com.NetBanking.PageObjects.*;
 				String s= driver.getCurrentUrl();
 				if(s.equals("https://demo.guru99.com/V4/index.php"))
 				{
-					captureScreen(driver,randomestring());
 					log.info("Testcase Passed");
 				}
 				else
 				{
-					captureScreen(driver,randomestring());
+					captureScreen(driver,"loginTTD");
 					Assert.assertTrue(false);
 					log.info("Testcase failed");
 				}
@@ -59,16 +58,12 @@ import com.NetBanking.PageObjects.*;
 				}
 				else
 				{
-					captureScreen(driver,randomestring());
+					captureScreen(driver,"LoginTTD");
 					Assert.assertTrue(false);
 					log.info("Testcase failed");
 				}
-				
-			}
-			
-			
+			}	
 		}
-		
 		
 		public boolean isAlertPresent() //user defined method created to check alert is presetn or not
 		{
@@ -81,10 +76,8 @@ import com.NetBanking.PageObjects.*;
 			{
 				return false;
 			}
-			
 		}
-		
-		
+				
 		@DataProvider(name="TestData")
 		String [][] getData() throws IOException
 		{

@@ -36,16 +36,6 @@ public String getPassword()
 String pwd=pro.getProperty("Password");
 return pwd;
 }
-public String getInvalidUsername()
-{
-String Iuid=pro.getProperty("InvalidUid");
-return Iuid;
-}
-public String getInvalidPassword()
-{
-String Ipwd=pro.getProperty("InvalidPwd");
-return Ipwd;
-}
 public String getChromePath()
 {
 String cpath=pro.getProperty("ChromePath");

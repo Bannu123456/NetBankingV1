@@ -19,21 +19,17 @@ import com.NetBanking.Utilities.*;
 
 public class BaseClass
 {
-	ReadConfig rc=new ReadConfig();
+	ReadConfig rc =new ReadConfig();
 	public String BaseURL=rc.getApplicationURL();
 	public String Userid=rc.getUsername();
 	public String Password=rc.getPassword();
-	public String InvalidUid=rc.getInvalidUsername();
-	public String InvalidPwd=rc.getInvalidPassword();
 	public static WebDriver driver;
 	public static Logger log;
-	
-	
+		
 	@Parameters("browser")
 	@BeforeClass
 		public void Setup(String br)
 	{
-		ReadConfig rc=new ReadConfig();
 		log =Logger.getLogger("LoggerExample");
 		PropertyConfigurator.configure("log4j.properties");
 		

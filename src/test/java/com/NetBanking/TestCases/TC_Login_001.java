@@ -25,7 +25,7 @@ boolean b=true;
 	}
 	else
 	{
-		captureScreen(driver,"valid");
+		captureScreen(driver,"Valid");
 		Assert.assertTrue(false);
 		log.info("Testcase01 failed");
 	}
